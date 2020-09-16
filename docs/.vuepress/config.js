@@ -5,12 +5,12 @@ module.exports = {
   logo: './assets/img/logo.png',
   theme: require.resolve('../../'),
   themeConfig: {
-  authors: [
+    authors: [
       {
-      name: 'Sal',
-      avatar: '/assets/img/sal.jpg',
-      link: 'https://wowthemes.net/donate',
-      linktext: 'Follow',
+        name: 'Sal',
+        avatar: '/assets/img/sal.jpg',
+        link: 'https://wowthemes.net/donate',
+        linktext: 'Follow',
       },
       {
         name: 'John Doe',
