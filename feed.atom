@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/wowthemesnet/vuepress-theme-mediumish/</id>
     <title>Mediumish</title>
-    <updated>2020-09-16T08:04:41.902Z</updated>
+    <updated>2020-09-16T08:06:37.860Z</updated>
     <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
     <link rel="alternate" href="https://github.com/wowthemesnet/vuepress-theme-mediumish/"/>
     <link rel="self" href="https://github.com/wowthemesnet/vuepress-theme-mediumish/feed.atom"/>
@@ -55,6 +55,14 @@
         <summary type="html"><![CDATA[VuePress implements a content distribution API for Markdown.]]></summary>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Writing a vuepress theme 1]]></title>
+        <id>https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/05/06/writing-a-vuepress-theme/</id>
+        <link href="https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/05/06/writing-a-vuepress-theme/">
+        </link>
+        <updated>2019-05-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Mediumish is the best VuePress theme Medium styled.]]></summary>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Leaving Las Vegas]]></title>
         <id>https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/05/06/writing-a-vuepress-theme-4/</id>
         <link href="https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/05/06/writing-a-vuepress-theme-4/">
@@ -69,14 +77,6 @@
         </link>
         <updated>2019-05-05T15:00:00.000Z</updated>
         <summary type="html"><![CDATA[The geographical distribution of the land within the tropics.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Writing a vuepress theme 1]]></title>
-        <id>https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/05/06/writing-a-vuepress-theme/</id>
-        <link href="https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/05/06/writing-a-vuepress-theme/">
-        </link>
-        <updated>2019-05-05T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Mediumish is the best VuePress theme Medium styled.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Welcome to Mediumish]]></title>
