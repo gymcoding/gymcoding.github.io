@@ -2,18 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/wowthemesnet/vuepress-theme-mediumish/</id>
     <title>Mediumish</title>
-    <updated>2020-09-16T07:26:33.057Z</updated>
+    <updated>2020-09-16T07:27:30.535Z</updated>
     <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
     <link rel="alternate" href="https://github.com/wowthemesnet/vuepress-theme-mediumish/"/>
     <link rel="self" href="https://github.com/wowthemesnet/vuepress-theme-mediumish/feed.atom"/>
     <subtitle>Blog example for Mediumish theme with VuePress</subtitle>
-    <entry>
-        <title type="html"><![CDATA[VuePress also supports Json]]></title>
-        <id>https://github.com/wowthemesnet/vuepress-theme-mediumish/2018/11/07/frontmatter-in-vuepress-3/</id>
-        <link href="https://github.com/wowthemesnet/vuepress-theme-mediumish/2018/11/07/frontmatter-in-vuepress-3/">
-        </link>
-        <updated>2018-11-06T15:00:00.000Z</updated>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Magical nature, God is perfect]]></title>
         <id>https://github.com/wowthemesnet/vuepress-theme-mediumish/2018/11/07/frontmatter-in-vuepress/</id>
@@ -21,6 +14,13 @@
         </link>
         <updated>2018-11-06T15:00:00.000Z</updated>
         <summary type="html"><![CDATA[I have travelled for so long that I can't even remember my own city.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VuePress also supports Json]]></title>
+        <id>https://github.com/wowthemesnet/vuepress-theme-mediumish/2018/11/07/frontmatter-in-vuepress-3/</id>
+        <link href="https://github.com/wowthemesnet/vuepress-theme-mediumish/2018/11/07/frontmatter-in-vuepress-3/">
+        </link>
+        <updated>2018-11-06T15:00:00.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Migrants clash with Greek police at border after Turkey opens floodgates]]></title>
@@ -39,28 +39,20 @@
         <summary type="html"><![CDATA[The number of confirmed COVID-19 cases jumped.]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Leaving Las Vegas]]></title>
-        <id>https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/05/06/writing-a-vuepress-theme-4/</id>
-        <link href="https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/05/06/writing-a-vuepress-theme-4/">
-        </link>
-        <updated>2019-05-05T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We find that Nature has made many wonderful provisions.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why do I need Markdown Slot]]></title>
-        <id>https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/02/26/markdown-slot/</id>
-        <link href="https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/02/26/markdown-slot/">
-        </link>
-        <updated>2019-02-25T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[VuePress implements a content distribution API for Markdown.]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Markdown Slot 4]]></title>
         <id>https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/02/26/markdown-slot-4/</id>
         <link href="https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/02/26/markdown-slot-4/">
         </link>
         <updated>2019-02-25T15:00:00.000Z</updated>
         <summary type="html"><![CDATA[Implementing markdown files, provders of metadata.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leaving Las Vegas]]></title>
+        <id>https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/05/06/writing-a-vuepress-theme-4/</id>
+        <link href="https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/05/06/writing-a-vuepress-theme-4/">
+        </link>
+        <updated>2019-05-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We find that Nature has made many wonderful provisions.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Wonderful diversity of plants and animals]]></title>
@@ -79,6 +71,14 @@
         <summary type="html"><![CDATA[Mediumish is the best VuePress theme Medium styled.]]></summary>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Welcome to Mediumish]]></title>
+        <id>https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/01/01/writing-a-vuepress-theme-3/</id>
+        <link href="https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/01/01/writing-a-vuepress-theme-3/">
+        </link>
+        <updated>2019-12-31T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Journalism is the production and distribution of reports on events.]]></summary>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[What's the most beautiful website in the world]]></title>
         <id>https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/01/28/whats-the-most-beautiful-website-world/</id>
         <link href="https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/01/28/whats-the-most-beautiful-website-world/">
@@ -87,12 +87,12 @@
         <summary type="html"><![CDATA[Any website that uses a static generator.]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Welcome to Mediumish]]></title>
-        <id>https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/01/01/writing-a-vuepress-theme-3/</id>
-        <link href="https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/01/01/writing-a-vuepress-theme-3/">
+        <title type="html"><![CDATA[Why do I need Markdown Slot]]></title>
+        <id>https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/02/26/markdown-slot/</id>
+        <link href="https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/02/26/markdown-slot/">
         </link>
-        <updated>2019-12-31T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Journalism is the production and distribution of reports on events.]]></summary>
+        <updated>2019-02-25T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[VuePress implements a content distribution API for Markdown.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello, World]]></title>
