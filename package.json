@@ -28,7 +28,7 @@
   "scripts": {
     "docs:build-deploy": "npm run docs:build && npm run docs:deploy",
     "docs:deploy": "gh-pages -d docs/.vuepress/dist -b gh-pages",
-    "docs:build": "vuepress build docs --temp docs/.temp",
+    "docs:build": "vuepress build docs --temp docs/.temp --no-cache",
     "docs:dev": "vuepress dev docs --temp docs/.temp",
     "lint": "eslint . --ext .js,.vue",
     "prepublishOnly": "npm run test && npm run docs:build && conventional-changelog -p angular -r 2 -i CHANGELOG.md -s",

@@ -1,16 +1,15 @@
 ---
-title: Hello, World
-date: 2020-1-29
+title: 카프카 - (1) 이해하기
+date: 2020-9-17
 tags: 
-  - theme
-  - blog
-  - vuepress
-author: Sal
-featuredimg: 'https://images.unsplash.com/photo-1482876555840-f31c5ebbff1c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80'
-summary: For a moment she wondered how she had happened to wake so early.
+  - apache
+  - kafka
+author: SoRyong Han
+featuredimg: '/assets/img/apache-kafka.png'
+summary: 아파치 카프카란 무엇이며, 왜 필요한지 그리고 등장배경을 설명하며 카프카에 대한 완벽한 이해를 돕고자 한다.
 ---
 
-When Louise opened her eyes she stared dreamily up at the slight abrasion in the shingle roof through which morning blinked. There were not many of these informal skylights, for the roof was not an old one. But there were a few, as there are likely to be in most summer cottages. When there was a violent downpour one had to hustle around distributing pans and kettles to catch an often ambitious drip. But this morning there was no rain. Louise's pretty face was not in danger of an unsolicited bath. It was a radiant summer dawn.
+When Lsouise opened her eyes she stared dreamily up at the slight abrasion in the shingle roof through which morning blinked. There were not many of these informal skylights, for the roof was not an old one. But there were a few, as there are likely to be in most summer cottages. When there was a violent downpour one had to hustle around distributing pans and kettles to catch an often ambitious drip. But this morning there was no rain. Louise's pretty face was not in danger of an unsolicited bath. It was a radiant summer dawn.
 
 For a moment she wondered how she had happened to wake so early. The July birds were all chattering in the woods. But why should she waken out of deep slumber unsummoned? Presently, however, the reason for this phenomenon flashed vividly. Downstairs in the cottage living room, on the chimney-piece, stood an old Dutch clock. This clock possessed a kind of wiry, indignant tick, and a voice, when it was time to speak, full of a jerky, twanging spite. 
 

@@ -50,7 +50,7 @@
                     <img v-if="author.name === page.frontmatter.author" :src="($withBase)(author.avatar)" class="avatar-image" :alt="author.name">
                   </a>
                   <div class="meta">
-                    <div v-if="author.name === page.frontmatter.author" v-text="author.name">
+                    <div class="username" v-if="author.name === page.frontmatter.author" v-text="author.name">
                       <!-- <span class="username">{{ author.name }}</span> &nbsp; -->
                     </div>
                     <div></div>
@@ -155,4 +155,6 @@ export default {
   margin-top: -20px;
 .username
   margin-top:-10px;
+  display: inline-block;
+  font-weight: 600;
 </style>
