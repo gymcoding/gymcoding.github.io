@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/wowthemesnet/vuepress-theme-mediumish/</id>
     <title>GYMCODING</title>
-    <updated>2020-09-20T13:55:10.862Z</updated>
+    <updated>2020-09-20T13:57:27.897Z</updated>
     <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
     <link rel="alternate" href="https://github.com/wowthemesnet/vuepress-theme-mediumish/"/>
     <link rel="self" href="https://github.com/wowthemesnet/vuepress-theme-mediumish/feed.atom"/>
@@ -15,14 +15,6 @@
         <updated>2018-11-06T15:00:00.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Magical nature, God is perfect]]></title>
-        <id>https://github.com/wowthemesnet/vuepress-theme-mediumish/2018/11/07/frontmatter-in-vuepress/</id>
-        <link href="https://github.com/wowthemesnet/vuepress-theme-mediumish/2018/11/07/frontmatter-in-vuepress/">
-        </link>
-        <updated>2018-11-06T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I have travelled for so long that I can't even remember my own city.]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Migrants clash with Greek police at border after Turkey opens floodgates]]></title>
         <id>https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/02/26/markdown-slot-2/</id>
         <link href="https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/02/26/markdown-slot-2/">
@@ -31,20 +23,28 @@
         <summary type="html"><![CDATA[Greek police fired tear gas to repel hundreds of migrants.]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Markdown Slot 4]]></title>
-        <id>https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/02/26/markdown-slot-4/</id>
-        <link href="https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/02/26/markdown-slot-4/">
-        </link>
-        <updated>2019-02-25T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Implementing markdown files, provders of metadata.]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[World Health Organization officials criticized for slow response]]></title>
         <id>https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/02/26/markdown-slot-3/</id>
         <link href="https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/02/26/markdown-slot-3/">
         </link>
         <updated>2019-02-25T15:00:00.000Z</updated>
         <summary type="html"><![CDATA[The number of confirmed COVID-19 cases jumped.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Magical nature, God is perfect]]></title>
+        <id>https://github.com/wowthemesnet/vuepress-theme-mediumish/2018/11/07/frontmatter-in-vuepress/</id>
+        <link href="https://github.com/wowthemesnet/vuepress-theme-mediumish/2018/11/07/frontmatter-in-vuepress/">
+        </link>
+        <updated>2018-11-06T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I have travelled for so long that I can't even remember my own city.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Markdown Slot 4]]></title>
+        <id>https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/02/26/markdown-slot-4/</id>
+        <link href="https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/02/26/markdown-slot-4/">
+        </link>
+        <updated>2019-02-25T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Implementing markdown files, provders of metadata.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Why do I need Markdown Slot]]></title>
@@ -101,5 +101,13 @@
         </link>
         <updated>2020-09-15T15:00:00.000Z</updated>
         <summary type="html"><![CDATA[아파치 카프카란 무엇이며 왜 필요한지 그리고 등장배경을 설명하며 카프카에 대한 완벽한 이해를 돕고자 한다.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아파치 카프카(2) - 구조]]></title>
+        <id>https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/20/kafka-what2/</id>
+        <link href="https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/20/kafka-what2/">
+        </link>
+        <updated>2020-09-19T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[아파치 카프카의 구조, 동작방식 그리고 구성요소에 대해 자세히 알아보자.]]></summary>
     </entry>
 </feed>

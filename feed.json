@@ -12,13 +12,6 @@
             "date_modified": "2018-11-06T15:00:00.000Z"
         },
         {
-            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2018/11/07/frontmatter-in-vuepress/",
-            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2018/11/07/frontmatter-in-vuepress/",
-            "title": "Magical nature, God is perfect",
-            "summary": "I have travelled for so long that I can't even remember my own city.",
-            "date_modified": "2018-11-06T15:00:00.000Z"
-        },
-        {
             "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/02/26/markdown-slot-2/",
             "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/02/26/markdown-slot-2/",
             "title": "Migrants clash with Greek police at border after Turkey opens floodgates",
@@ -26,17 +19,24 @@
             "date_modified": "2019-02-25T15:00:00.000Z"
         },
         {
-            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/02/26/markdown-slot-4/",
-            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/02/26/markdown-slot-4/",
-            "title": "Markdown Slot 4",
-            "summary": "Implementing markdown files, provders of metadata.",
-            "date_modified": "2019-02-25T15:00:00.000Z"
-        },
-        {
             "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/02/26/markdown-slot-3/",
             "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/02/26/markdown-slot-3/",
             "title": "World Health Organization officials criticized for slow response",
             "summary": "The number of confirmed COVID-19 cases jumped.",
+            "date_modified": "2019-02-25T15:00:00.000Z"
+        },
+        {
+            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2018/11/07/frontmatter-in-vuepress/",
+            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2018/11/07/frontmatter-in-vuepress/",
+            "title": "Magical nature, God is perfect",
+            "summary": "I have travelled for so long that I can't even remember my own city.",
+            "date_modified": "2018-11-06T15:00:00.000Z"
+        },
+        {
+            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/02/26/markdown-slot-4/",
+            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/02/26/markdown-slot-4/",
+            "title": "Markdown Slot 4",
+            "summary": "Implementing markdown files, provders of metadata.",
             "date_modified": "2019-02-25T15:00:00.000Z"
         },
         {
@@ -88,6 +88,14 @@
             "summary": "아파치 카프카란 무엇이며 왜 필요한지 그리고 등장배경을 설명하며 카프카에 대한 완벽한 이해를 돕고자 한다.",
             "image": "https://github.com/wowthemesnet/vuepress-theme-mediumish/assets/img/kafka1.png",
             "date_modified": "2020-09-15T15:00:00.000Z"
+        },
+        {
+            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/20/kafka-what2/",
+            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/20/kafka-what2/",
+            "title": "아파치 카프카(2) - 구조",
+            "summary": "아파치 카프카의 구조, 동작방식 그리고 구성요소에 대해 자세히 알아보자.",
+            "image": "https://github.com/wowthemesnet/vuepress-theme-mediumish/assets/img/pub-sub.png",
+            "date_modified": "2020-09-19T15:00:00.000Z"
         }
     ]
 }
