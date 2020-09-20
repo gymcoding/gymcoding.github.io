@@ -7,8 +7,6 @@ tags:
 author: SoRyong Han
 featuredimg: '/assets/img/apache-kafka.png'
 summary: 아파치 카프카의 구조, 동작방식 그리고 구성요소에 대해 자세히 알아보자.
-prev: true
-next: https://vuepress.vuejs.org/
 ---
 ## 들어가며
 카프카의 모델인 Pub-Sub모델을 알아보고 topic, partition, broker 등 구성요소에 대해서 자세히 알아보자

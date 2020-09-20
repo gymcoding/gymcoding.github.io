@@ -6,9 +6,7 @@ tags:
   - kafka
 author: SoRyong Han
 featuredimg: '/assets/img/apache-kafka.png'
-summary: 아파치 카프카란 무엇이며, 왜 필요한지 그리고 등장배경을 설명하며 카프카에 대한 완벽한 이해를 돕고자 한다.
-prev: false
-next: ./2020-9-16-kafka-what2.md
+summary: 아파치 카프카란 무엇이며 왜 필요한지 그리고 등장배경을 설명하며 카프카에 대한 완벽한 이해를 돕고자 한다.
 ---
 ## 들어가며
 2020년 9월 최근 [**ThingsBoard 오픈소스 플랫폼**](https://thingsboard.io/) 기반의 IoT 데이터 수집 및 시각화 프로젝트를 맡게되었다.
