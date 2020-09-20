@@ -7,8 +7,6 @@ module.exports = {
   logo: './assets/img/logo.png',
   theme: require.resolve('../../'),
   themeConfig: {
-    nextLinks: false,
-    prevLinks: false,
     authors: [
       {
         name: 'SoRyong Han',
