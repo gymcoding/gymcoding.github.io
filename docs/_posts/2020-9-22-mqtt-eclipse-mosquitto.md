@@ -5,7 +5,7 @@ tags:
   - mqtt
   - mosquitto
 author: SoRyong Han
-featuredimg: '/assets/img/eclipse-mosquitto-logo.jpeg'
+featuredimg: '/assets/img/title/mosquitto-logo.jpg'
 summary: docker hub에서 제공하는 eclipse-mosquitto로 MQTT Broker를 구성해보자.
 ---
 

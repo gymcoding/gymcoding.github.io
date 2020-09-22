@@ -5,7 +5,7 @@ tags:
   - mqtt
   - mosquitto
 author: SoRyong Han
-featuredimg: '/assets/img/eclipse-mosquitto-logo.jpeg'
+featuredimg: '/assets/img/title/mosquitto-logo.jpg'
 summary: mosquitto-clients를 설치하고 mosquitto_pub 사용법에 대해 알아보자.
 ---
 
