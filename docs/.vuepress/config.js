@@ -6,6 +6,9 @@ module.exports = {
   description: 'Blog example for Mediumish theme with VuePress',
   logo: './assets/img/logo.png',
   theme: require.resolve('../../'),
+  plugins: [
+    // 'vuepress-plugin-seo'
+  ],
   themeConfig: {
     authors: [
       {
