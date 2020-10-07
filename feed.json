@@ -6,80 +6,18 @@
     "description": "Blog example for Mediumish theme with VuePress",
     "items": [
         {
-            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2018/11/07/frontmatter-in-vuepress-3/",
-            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2018/11/07/frontmatter-in-vuepress-3/",
-            "title": "VuePress also supports Json",
-            "date_modified": "2018-11-06T15:00:00.000Z"
+            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/21/docker-error-1/",
+            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/21/docker-error-1/",
+            "title": "Docker - Container 접속시 /bin/bash 에러",
+            "summary": "Docker Container에 Shell 접속시 starting container process caused exec /bin/bash Error",
+            "date_modified": "2020-09-20T15:00:00.000Z"
         },
         {
-            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2018/11/07/frontmatter-in-vuepress/",
-            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2018/11/07/frontmatter-in-vuepress/",
-            "title": "Magical nature, God is perfect",
-            "summary": "I have travelled for so long that I can't even remember my own city.",
-            "date_modified": "2018-11-06T15:00:00.000Z"
-        },
-        {
-            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/02/26/markdown-slot-3/",
-            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/02/26/markdown-slot-3/",
-            "title": "World Health Organization officials criticized for slow response",
-            "summary": "The number of confirmed COVID-19 cases jumped.",
-            "date_modified": "2019-02-25T15:00:00.000Z"
-        },
-        {
-            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/02/26/markdown-slot-2/",
-            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/02/26/markdown-slot-2/",
-            "title": "Migrants clash with Greek police at border after Turkey opens floodgates",
-            "summary": "Greek police fired tear gas to repel hundreds of migrants.",
-            "date_modified": "2019-02-25T15:00:00.000Z"
-        },
-        {
-            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/02/26/markdown-slot-4/",
-            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/02/26/markdown-slot-4/",
-            "title": "Markdown Slot 4",
-            "summary": "Implementing markdown files, provders of metadata.",
-            "date_modified": "2019-02-25T15:00:00.000Z"
-        },
-        {
-            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/02/26/markdown-slot/",
-            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/02/26/markdown-slot/",
-            "title": "Why do I need Markdown Slot",
-            "summary": "VuePress implements a content distribution API for Markdown.",
-            "date_modified": "2019-02-25T15:00:00.000Z"
-        },
-        {
-            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/05/06/writing-a-vuepress-theme-2/",
-            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/05/06/writing-a-vuepress-theme-2/",
-            "title": "Wonderful diversity of plants and animals",
-            "summary": "The geographical distribution of the land within the tropics.",
-            "date_modified": "2019-05-05T15:00:00.000Z"
-        },
-        {
-            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/05/06/writing-a-vuepress-theme/",
-            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/05/06/writing-a-vuepress-theme/",
-            "title": "Writing a vuepress theme 1",
-            "summary": "Mediumish is the best VuePress theme Medium styled.",
-            "date_modified": "2019-05-05T15:00:00.000Z"
-        },
-        {
-            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/05/06/writing-a-vuepress-theme-4/",
-            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2019/05/06/writing-a-vuepress-theme-4/",
-            "title": "Leaving Las Vegas",
-            "summary": "We find that Nature has made many wonderful provisions.",
-            "date_modified": "2019-05-05T15:00:00.000Z"
-        },
-        {
-            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/01/01/writing-a-vuepress-theme-3/",
-            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/01/01/writing-a-vuepress-theme-3/",
-            "title": "Welcome to Mediumish",
-            "summary": "Journalism is the production and distribution of reports on events.",
-            "date_modified": "2019-12-31T15:00:00.000Z"
-        },
-        {
-            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/01/28/whats-the-most-beautiful-website-world/",
-            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/01/28/whats-the-most-beautiful-website-world/",
-            "title": "What's the most beautiful website in the world",
-            "summary": "Any website that uses a static generator.",
-            "date_modified": "2020-01-27T15:00:00.000Z"
+            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/22/mqtt-eclipse-mosquitto/",
+            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/22/mqtt-eclipse-mosquitto/",
+            "title": "MQTT - Docker eclipse-mosquitto로 MQTT Broker 설치",
+            "summary": "docker hub에서 제공하는 eclipse-mosquitto로 MQTT Broker를 구성해보자.",
+            "date_modified": "2020-09-21T15:00:00.000Z"
         },
         {
             "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/16/kafka-what/",
@@ -88,28 +26,6 @@
             "summary": "아파치 카프카란 무엇이며 왜 필요한지 그리고 등장배경을 설명하며 카프카에 대한 완벽한 이해를 돕고자 한다.",
             "image": "https://github.com/wowthemesnet/vuepress-theme-mediumish/assets/img/kafka1.png",
             "date_modified": "2020-09-15T15:00:00.000Z"
-        },
-        {
-            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/21/docker-error-1/",
-            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/21/docker-error-1/",
-            "title": "Docker - Container 접속시 /bin/bash 에러",
-            "summary": "Docker Container에 Shell 접속시 starting container process caused exec /bin/bash Error",
-            "date_modified": "2020-09-20T15:00:00.000Z"
-        },
-        {
-            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/20/kafka-what2/",
-            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/20/kafka-what2/",
-            "title": "아파치 카프카(2) - 구조",
-            "summary": "아파치 카프카의 구조, 동작방식 그리고 구성요소에 대해 자세히 알아보자.",
-            "image": "https://github.com/wowthemesnet/vuepress-theme-mediumish/assets/img/pub-sub.png",
-            "date_modified": "2020-09-19T15:00:00.000Z"
-        },
-        {
-            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/22/mqtt-eclipse-mosquitto/",
-            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/22/mqtt-eclipse-mosquitto/",
-            "title": "MQTT - Docker eclipse-mosquitto로 MQTT Broker 설치",
-            "summary": "docker hub에서 제공하는 eclipse-mosquitto로 MQTT Broker를 구성해보자.",
-            "date_modified": "2020-09-21T15:00:00.000Z"
         },
         {
             "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/22/mqtt-mosquitto-pub/",
@@ -124,6 +40,21 @@
             "title": "MQTT - mosquitto_sub 설치 및 사용법",
             "summary": "mosquitto-clients를 설치하고 mosquitto_sub 사용법에 대해 알아보자.",
             "date_modified": "2020-09-21T15:00:00.000Z"
+        },
+        {
+            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/23/mqtt-mosquitto-authentication/",
+            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/23/mqtt-mosquitto-authentication/",
+            "title": "MQTT - Mosquitto Broker Authentication 설정",
+            "summary": "Mosquitto Broker Authentication Setting Guide / MQTT Broker 인증 설정",
+            "date_modified": "2020-09-22T15:00:00.000Z"
+        },
+        {
+            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/20/kafka-what2/",
+            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/20/kafka-what2/",
+            "title": "아파치 카프카(2) - 구조",
+            "summary": "아파치 카프카의 구조, 동작방식 그리고 구성요소에 대해 자세히 알아보자.",
+            "image": "https://github.com/wowthemesnet/vuepress-theme-mediumish/assets/img/pub-sub.png",
+            "date_modified": "2020-09-19T15:00:00.000Z"
         }
     ]
 }
