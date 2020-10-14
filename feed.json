@@ -6,25 +6,11 @@
     "description": "Blog example for Mediumish theme with VuePress",
     "items": [
         {
-            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/23/nodejs-forever/",
-            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/23/nodejs-forever/",
-            "title": "NODE - Forever로 Node App 백그라운드 실행",
-            "summary": "NodeJS 무중단 관리도구인 Forever에 대해 알아보자!",
-            "date_modified": "2020-09-22T15:00:00.000Z"
-        },
-        {
-            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/22/mqtt-eclipse-mosquitto/",
-            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/22/mqtt-eclipse-mosquitto/",
-            "title": "MQTT - Docker eclipse-mosquitto로 MQTT Broker 설치",
-            "summary": "docker hub에서 제공하는 eclipse-mosquitto로 MQTT Broker를 구성해보자.",
-            "date_modified": "2020-09-21T15:00:00.000Z"
-        },
-        {
-            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/22/mqtt-mosquitto-pub/",
-            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/22/mqtt-mosquitto-pub/",
-            "title": "MQTT - mosquitto_pub 설치 및 사용법",
-            "summary": "mosquitto-clients를 설치하고 mosquitto_pub 사용법에 대해 알아보자.",
-            "date_modified": "2020-09-21T15:00:00.000Z"
+            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/10/15/nginx-docker-based/",
+            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/10/15/nginx-docker-based/",
+            "title": "Nginx - Docker로 Nginx 설치하고 실행하기",
+            "summary": "Nginx를 Docker로 설치하여 간단하게 웹 서비스를 운영해보자.",
+            "date_modified": "2020-10-15T00:00:00.000Z"
         },
         {
             "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/16/kafka-what/",
@@ -35,11 +21,25 @@
             "date_modified": "2020-09-15T15:00:00.000Z"
         },
         {
-            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/23/mqtt-mosquitto-authentication-copy/",
-            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/23/mqtt-mosquitto-authentication-copy/",
-            "title": "MQTT - Mosquitto Broker Authentication 설정",
-            "summary": "Mosquitto Broker Authentication Setting Guide / MQTT Broker 인증 설정",
-            "date_modified": "2020-09-22T15:00:00.000Z"
+            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/10/14/nodejs-forever/",
+            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/10/14/nodejs-forever/",
+            "title": "NODE - Forever로 Node App 백그라운드 실행",
+            "summary": "NodeJS 무중단 관리도구인 Forever에 대해 알아보자!",
+            "date_modified": "2020-10-14T00:00:00.000Z"
+        },
+        {
+            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/21/docker-error-1/",
+            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/21/docker-error-1/",
+            "title": "Docker - Container 접속시 /bin/bash 에러",
+            "summary": "Docker Container에 Shell 접속시 starting container process caused exec /bin/bash Error",
+            "date_modified": "2020-09-20T15:00:00.000Z"
+        },
+        {
+            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/22/mqtt-mosquitto-pub/",
+            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/22/mqtt-mosquitto-pub/",
+            "title": "MQTT - mosquitto_pub 설치 및 사용법",
+            "summary": "mosquitto-clients를 설치하고 mosquitto_pub 사용법에 대해 알아보자.",
+            "date_modified": "2020-09-21T15:00:00.000Z"
         },
         {
             "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/22/mqtt-mosquitto-sub/",
@@ -49,11 +49,18 @@
             "date_modified": "2020-09-21T15:00:00.000Z"
         },
         {
-            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/21/docker-error-1/",
-            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/21/docker-error-1/",
-            "title": "Docker - Container 접속시 /bin/bash 에러",
-            "summary": "Docker Container에 Shell 접속시 starting container process caused exec /bin/bash Error",
-            "date_modified": "2020-09-20T15:00:00.000Z"
+            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/22/mqtt-eclipse-mosquitto/",
+            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/22/mqtt-eclipse-mosquitto/",
+            "title": "MQTT - Docker eclipse-mosquitto로 MQTT Broker 설치",
+            "summary": "docker hub에서 제공하는 eclipse-mosquitto로 MQTT Broker를 구성해보자.",
+            "date_modified": "2020-09-21T15:00:00.000Z"
+        },
+        {
+            "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/23/mqtt-mosquitto-authentication-copy/",
+            "url": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/23/mqtt-mosquitto-authentication-copy/",
+            "title": "MQTT - Mosquitto Broker Authentication 설정",
+            "summary": "Mosquitto Broker Authentication Setting Guide / MQTT Broker 인증 설정",
+            "date_modified": "2020-09-22T15:00:00.000Z"
         },
         {
             "id": "https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/20/kafka-what2/",
