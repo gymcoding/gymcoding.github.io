@@ -2,11 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/wowthemesnet/vuepress-theme-mediumish/</id>
     <title>GYMCODING</title>
-    <updated>2020-10-14T02:09:30.698Z</updated>
+    <updated>2020-10-14T03:54:21.501Z</updated>
     <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
     <link rel="alternate" href="https://github.com/wowthemesnet/vuepress-theme-mediumish/"/>
     <link rel="self" href="https://github.com/wowthemesnet/vuepress-theme-mediumish/feed.atom"/>
     <subtitle>Blog example for Mediumish theme with VuePress</subtitle>
+    <entry>
+        <title type="html"><![CDATA[NODE - Forever로 Node App 백그라운드 실행]]></title>
+        <id>https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/23/nodejs-forever/</id>
+        <link href="https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/23/nodejs-forever/">
+        </link>
+        <updated>2020-09-22T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[NodeJS 무중단 관리도구인 Forever에 대해 알아보자!]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MQTT - Docker eclipse-mosquitto로 MQTT Broker 설치]]></title>
+        <id>https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/22/mqtt-eclipse-mosquitto/</id>
+        <link href="https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/22/mqtt-eclipse-mosquitto/">
+        </link>
+        <updated>2020-09-21T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[docker hub에서 제공하는 eclipse-mosquitto로 MQTT Broker를 구성해보자.]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MQTT - mosquitto_pub 설치 및 사용법]]></title>
         <id>https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/22/mqtt-mosquitto-pub/</id>
@@ -16,12 +32,12 @@
         <summary type="html"><![CDATA[mosquitto-clients를 설치하고 mosquitto_pub 사용법에 대해 알아보자.]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NODE - Forever로 Node App 백그라운드 실행]]></title>
-        <id>https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/23/nodejs-forever/</id>
-        <link href="https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/23/nodejs-forever/">
+        <title type="html"><![CDATA[아파치 카프카(1) - 이해하기]]></title>
+        <id>https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/16/kafka-what/</id>
+        <link href="https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/16/kafka-what/">
         </link>
-        <updated>2020-09-22T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[NodeJS 무중단 관리도구인 Forever에 대해 알아보자!]]></summary>
+        <updated>2020-09-15T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[아파치 카프카란 무엇이며 왜 필요한지 그리고 등장배경을 설명하며 카프카에 대한 완벽한 이해를 돕고자 한다.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[MQTT - Mosquitto Broker Authentication 설정]]></title>
@@ -46,22 +62,6 @@
         </link>
         <updated>2020-09-20T15:00:00.000Z</updated>
         <summary type="html"><![CDATA[Docker Container에 Shell 접속시 starting container process caused exec /bin/bash Error]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아파치 카프카(1) - 이해하기]]></title>
-        <id>https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/16/kafka-what/</id>
-        <link href="https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/16/kafka-what/">
-        </link>
-        <updated>2020-09-15T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[아파치 카프카란 무엇이며 왜 필요한지 그리고 등장배경을 설명하며 카프카에 대한 완벽한 이해를 돕고자 한다.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MQTT - Docker eclipse-mosquitto로 MQTT Broker 설치]]></title>
-        <id>https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/22/mqtt-eclipse-mosquitto/</id>
-        <link href="https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/22/mqtt-eclipse-mosquitto/">
-        </link>
-        <updated>2020-09-21T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[docker hub에서 제공하는 eclipse-mosquitto로 MQTT Broker를 구성해보자.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[아파치 카프카(2) - 구조]]></title>
