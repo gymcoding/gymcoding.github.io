@@ -67,12 +67,11 @@ mkdir config
 mkdir data
 mkdir log
 ```
-- ./config/mosquitto.conf 파일 생성 및 작성
+- ./config/mosquitto.conf 파일 생성
 ```sh
 touch ./config/mosquitto.conf
-vi ./config/mosquitto.conf
 ```
-- mosquitto.conf 파일내 작성
+<!-- - mosquitto.conf 파일내 작성
 ```yaml
 persistence true
 persistence_location /${USER_DIR}/${MOSQUITTO_DIR}/data/
@@ -81,17 +80,17 @@ log_dest file /${USER_DIR}/${MOSQUITTO_DIR}/log/mosquitto.log
 - 로그파일 생성
 ```sh
 touch ./log/mosquitto.log
-```
+``` -->
 6. 서비스를 위하여 컨테이너를 빌드-생성-시작 합니다.
   ```sh
   docker-compose up
   ```
----
+<!-- ---
 **Docker Error: Unable to open log file ERROR 발생시 참고**
 
 [Docker Error: Unable to open log file /mqtt/logs/mosquitto.log for writing](https://github.com/eclipse/mosquitto/issues/1078)
 
----
+--- -->
 
 ## 테스트 진행
 MQTT Pub-Sub을 테스트 하기 위해서는 mosquitto-clients 모듈을 설치해야 한다.

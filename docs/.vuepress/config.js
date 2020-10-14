@@ -1,6 +1,8 @@
 module.exports = {
   title: 'GYMCODING',
   head: [
+    ['meta', { name: "google-site-verification", content: "a8X17xP3Naw2HRYnXTK0urOVzQWhePgw83pZjnBAEhI" }],
+    ['meta', { name: 'naver-site-verification', content: '3c9e064b895ae4b1430f6abd3fc031c7590f343f' }]
   ],
   base: '/',
   description: 'Blog example for Mediumish theme with VuePress',
