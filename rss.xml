@@ -4,10 +4,45 @@
         <title>GYMCODING</title>
         <link>https://github.com/wowthemesnet/vuepress-theme-mediumish/</link>
         <description>Blog example for Mediumish theme with VuePress</description>
-        <lastBuildDate>Fri, 16 Oct 2020 08:51:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Oct 2020 03:49:31 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <atom:link href="https://github.com/wowthemesnet/vuepress-theme-mediumish/feed.atom" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Git - 태그(Tag)란 무엇인가?]]></title>
+            <link>https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/10/16/git-tag/</link>
+            <guid>https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/10/16/git-tag/</guid>
+            <pubDate>Fri, 16 Oct 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Git Tag란 무엇이며, 왜 사용하는지 알아보자!]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Git - gitlab server certificate verification failed]]></title>
+            <link>https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/10/17/git-gitlab-error-certificate/</link>
+            <guid>https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/10/17/git-gitlab-error-certificate/</guid>
+            <pubDate>Sat, 17 Oct 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[gitlab server certificate verification failed 에러 처리]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Docker - Container 접속시 /bin/bash 에러]]></title>
+            <link>https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/21/docker-error-1/</link>
+            <guid>https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/21/docker-error-1/</guid>
+            <pubDate>Sun, 20 Sep 2020 15:00:00 GMT</pubDate>
+            <description><![CDATA[Docker Container에 Shell 접속시 starting container process caused exec /bin/bash Error]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Nginx - Docker로 Nginx 설치하고 실행하기]]></title>
+            <link>https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/10/15/nginx-docker-based/</link>
+            <guid>https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/10/15/nginx-docker-based/</guid>
+            <pubDate>Thu, 15 Oct 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Nginx를 Docker로 설치하여 간단하게 웹 서비스를 운영해보자.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[NODE - Forever로 Node App 백그라운드 실행]]></title>
+            <link>https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/10/14/nodejs-forever/</link>
+            <guid>https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/10/14/nodejs-forever/</guid>
+            <pubDate>Wed, 14 Oct 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[NodeJS 무중단 관리도구인 Forever에 대해 알아보자!]]></description>
+        </item>
         <item>
             <title><![CDATA[아파치 카프카(1) - 이해하기]]></title>
             <link>https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/16/kafka-what/</link>
@@ -18,46 +53,11 @@
             </enclosure>
         </item>
         <item>
-            <title><![CDATA[Git - 태그(Tag)란 무엇인가?]]></title>
-            <link>https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/10/16/git-tag/</link>
-            <guid>https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/10/16/git-tag/</guid>
-            <pubDate>Fri, 16 Oct 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[Git Tag란 무엇이며, 왜 사용하는지 알아보자!]]></description>
-        </item>
-        <item>
-            <title><![CDATA[NODE - Forever로 Node App 백그라운드 실행]]></title>
-            <link>https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/10/14/nodejs-forever/</link>
-            <guid>https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/10/14/nodejs-forever/</guid>
-            <pubDate>Wed, 14 Oct 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[NodeJS 무중단 관리도구인 Forever에 대해 알아보자!]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Nginx - Docker로 Nginx 설치하고 실행하기]]></title>
-            <link>https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/10/15/nginx-docker-based/</link>
-            <guid>https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/10/15/nginx-docker-based/</guid>
-            <pubDate>Thu, 15 Oct 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[Nginx를 Docker로 설치하여 간단하게 웹 서비스를 운영해보자.]]></description>
-        </item>
-        <item>
             <title><![CDATA[MQTT - Docker eclipse-mosquitto로 MQTT Broker 설치]]></title>
             <link>https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/22/mqtt-eclipse-mosquitto/</link>
             <guid>https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/22/mqtt-eclipse-mosquitto/</guid>
             <pubDate>Mon, 21 Sep 2020 15:00:00 GMT</pubDate>
             <description><![CDATA[docker hub에서 제공하는 eclipse-mosquitto로 MQTT Broker를 구성해보자.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Docker - Container 접속시 /bin/bash 에러]]></title>
-            <link>https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/21/docker-error-1/</link>
-            <guid>https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/21/docker-error-1/</guid>
-            <pubDate>Sun, 20 Sep 2020 15:00:00 GMT</pubDate>
-            <description><![CDATA[Docker Container에 Shell 접속시 starting container process caused exec /bin/bash Error]]></description>
-        </item>
-        <item>
-            <title><![CDATA[MQTT - mosquitto_pub 설치 및 사용법]]></title>
-            <link>https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/22/mqtt-mosquitto-pub/</link>
-            <guid>https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/22/mqtt-mosquitto-pub/</guid>
-            <pubDate>Mon, 21 Sep 2020 15:00:00 GMT</pubDate>
-            <description><![CDATA[mosquitto-clients를 설치하고 mosquitto_pub 사용법에 대해 알아보자.]]></description>
         </item>
         <item>
             <title><![CDATA[MQTT - mosquitto_sub 설치 및 사용법]]></title>
@@ -67,6 +67,20 @@
             <description><![CDATA[mosquitto-clients를 설치하고 mosquitto_sub 사용법에 대해 알아보자.]]></description>
         </item>
         <item>
+            <title><![CDATA[MQTT - Mosquitto Broker Authentication 설정]]></title>
+            <link>https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/23/mqtt-mosquitto-authentication-copy/</link>
+            <guid>https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/23/mqtt-mosquitto-authentication-copy/</guid>
+            <pubDate>Tue, 22 Sep 2020 15:00:00 GMT</pubDate>
+            <description><![CDATA[Mosquitto Broker Authentication Setting Guide / MQTT Broker 인증 설정]]></description>
+        </item>
+        <item>
+            <title><![CDATA[MQTT - mosquitto_pub 설치 및 사용법]]></title>
+            <link>https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/22/mqtt-mosquitto-pub/</link>
+            <guid>https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/22/mqtt-mosquitto-pub/</guid>
+            <pubDate>Mon, 21 Sep 2020 15:00:00 GMT</pubDate>
+            <description><![CDATA[mosquitto-clients를 설치하고 mosquitto_pub 사용법에 대해 알아보자.]]></description>
+        </item>
+        <item>
             <title><![CDATA[아파치 카프카(2) - 구조]]></title>
             <link>https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/20/kafka-what2/</link>
             <guid>https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/20/kafka-what2/</guid>
@@ -74,13 +88,6 @@
             <description><![CDATA[아파치 카프카의 구조, 동작방식 그리고 구성요소에 대해 자세히 알아보자.]]></description>
             <enclosure url="https://github.com/wowthemesnet/vuepress-theme-mediumish/assets/img/pub-sub.png">
             </enclosure>
-        </item>
-        <item>
-            <title><![CDATA[MQTT - Mosquitto Broker Authentication 설정]]></title>
-            <link>https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/23/mqtt-mosquitto-authentication-copy/</link>
-            <guid>https://github.com/wowthemesnet/vuepress-theme-mediumish/2020/09/23/mqtt-mosquitto-authentication-copy/</guid>
-            <pubDate>Tue, 22 Sep 2020 15:00:00 GMT</pubDate>
-            <description><![CDATA[Mosquitto Broker Authentication Setting Guide / MQTT Broker 인증 설정]]></description>
         </item>
     </channel>
 </rss>
