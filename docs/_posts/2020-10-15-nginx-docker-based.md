@@ -55,6 +55,7 @@ docker-compose.yml에 volumns 폴더와 파일을 지정하였으므로, 미리 
   - docker-compose.yml
 ```
 - templates 폴더 밑 설정 파일 생성
+  
   ```sh
   mkdir templates
   cd templates
@@ -171,6 +172,10 @@ docker-compose.yml에 volumns 폴더와 파일을 지정하였으므로, 미리 
       include /etc/nginx/conf.d/*.conf;
   }
   ```
+
+:::tip
+여러개의 인스턴스를 추가하고자 할 때는 {instance name}.conf.template 파일을 추가해준다.
+:::
 
 ### 3. 도커 이미지 다운로드 및 컨테이너 실행
 ```sh
