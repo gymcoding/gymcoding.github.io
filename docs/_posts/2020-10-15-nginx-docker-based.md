@@ -2,7 +2,7 @@
 title: Nginx - Docker로 Nginx 설치하고 실행하기
 date: 2020-10-15
 tags: 
-  - nodejs
+  - nginx
 author: SoRyong Han
 featuredimg: '/assets/img/title/nginx.png'
 summary: Nginx를 Docker로 설치하여 간단하게 웹 서비스를 운영해보자.
